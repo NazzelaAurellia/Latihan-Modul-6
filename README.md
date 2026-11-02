@@ -1,3 +1,4 @@
-# Tugasmodul6 Clone
+# Tugasmodul6 
 
-Clone Tugasmodul6 Homepage with Tugasmodul6 CSS Framework
+PHP sangat menyenangkan.
+
